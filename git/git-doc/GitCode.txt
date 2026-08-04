@@ -41,3 +41,12 @@ this change from newBranch
 
 14. git checkout newBranch -> antha branch ku switch panna 
 [ git checkout -b newrbranchName] -> eppudiyum create pannalm 
+
+15.git branch new-bug main -> epo nama newBranch la erukom but ennaku ethoda
+copy vena main oda copy branch new-bug nu create pannu solrom
+
+16. git push --set-upstream origin newBranch -> branch ah repo ku push panna 
+ethula enna branch push panna poren nu last la solanum
+
+17. git push -u origin featureBranch -> etha use panniyum branch repo la
+Branch add pannalam
