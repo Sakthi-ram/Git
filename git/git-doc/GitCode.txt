@@ -32,5 +32,6 @@ Untracked files:
 ethula check panni pakalam but enna commit pannanom athumatum show agum mathala show agathu
 
 11.git checkout main -> ethu last commit la erunthu main branch ku vara use pannrom
-
-12.
+ 
+Remote Connect git hub
+12. git remote add origin https://github.com/Sakthi-ram/Git.git
