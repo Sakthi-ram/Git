@@ -31,6 +31,6 @@ Untracked files:
 10. git checkout ____ -> particullar add panna commit hash ah pota namaku
 ethula check panni pakalam but enna commit pannanom athumatum show agum mathala show agathu
 
-11.git checkout main -> ethu pona commit la erunthu main branch ku vara use pannrom
+11.git checkout main -> ethu last commit la erunthu main branch ku vara use pannrom
 
-12.in
+12.
