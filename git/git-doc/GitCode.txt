@@ -25,3 +25,5 @@ Untracked files:
 7. git commit -m 'git-doc'->git repo la commit panna
 
 8. git log -> enna pannirukomnu solum
+
+9. git add . -> total ah repo la add panna
