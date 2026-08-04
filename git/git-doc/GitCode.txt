@@ -33,4 +33,4 @@ ethula check panni pakalam but enna commit pannanom athumatum show agum mathala 
 
 11.git checkout main -> ethu pona commit la erunthu main branch ku vara use pannrom
 
-12.
+12.in
