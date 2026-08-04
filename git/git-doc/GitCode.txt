@@ -41,3 +41,7 @@ this change from newBranch
 
 14. git checkout newBranch -> antha branch ku switch panna 
 [ git checkout -b newrbranchName] -> eppudiyum create pannalm 
+
+15.git branch new-bug main -> epo nama newBranch la erukom but ennaku ethoda
+copy vena main oda copy branch new-bug nu create pannu solrom
+
