@@ -48,3 +48,5 @@ copy vena main oda copy branch new-bug nu create pannu solrom
 16. git push --set-upstream origin newBranch -> branch ah repo ku push panna 
 ethula enna branch push panna poren nu last la solanum
 
+17. git push -u origin featureBranch -> etha use panniyum branch repo la
+Branch add pannalam
