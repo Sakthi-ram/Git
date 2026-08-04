@@ -35,3 +35,9 @@ ethula check panni pakalam but enna commit pannanom athumatum show agum mathala 
  
 Remote Connect git hub
 12. git remote add origin https://github.com/Sakthi-ram/Git.git
+
+this change from newBranch
+13. git branch newBranch -> branch create panna
+
+14. git checkout newBranch -> antha branch ku switch panna 
+[ git checkout -b newrbranchName] -> eppudiyum create pannalm 
